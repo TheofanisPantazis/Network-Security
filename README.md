@@ -8,4 +8,9 @@ Dos/DDos Attack Simulation
 * [Swarmlab Hybrid](https://git.swarmlab.io:3000/zeus/swarmlab-hybrid)
 * [Swarmlab Venus](https://git.swarmlab.io:3000/swarmlab/venus-client)
 
+# Tools 
+* hping3
+* tcpdump
+* netstat
+
 
