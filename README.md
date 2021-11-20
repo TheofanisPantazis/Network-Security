@@ -1,5 +1,7 @@
 # Network-Security
-Network Security UNIWA Project - 2021/2022 
+Network Security UNIWA Project - 2021/2022
+
+Dos/DDos Attack Simulation
 
 # Requirements
 * [Docker](https://www.docker.com/)
